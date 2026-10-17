@@ -1,4 +1,4 @@
-# SW_ENG_SCHNEIDER - Nähmaschine
+# SW_ENG_SCHNEIDER - Elektrische Rolladen
 
 Software Engineering Projekt (WS 26/27)
 
